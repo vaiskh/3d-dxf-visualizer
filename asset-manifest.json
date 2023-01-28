@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3d-dxf-visualizer/static/css/main.481db822.css",
+    "main.js": "/3d-dxf-visualizer/static/js/main.1f0b0ffc.js",
+    "static/js/787.977092f1.chunk.js": "/3d-dxf-visualizer/static/js/787.977092f1.chunk.js",
+    "index.html": "/3d-dxf-visualizer/index.html",
+    "main.481db822.css.map": "/3d-dxf-visualizer/static/css/main.481db822.css.map",
+    "main.1f0b0ffc.js.map": "/3d-dxf-visualizer/static/js/main.1f0b0ffc.js.map",
+    "787.977092f1.chunk.js.map": "/3d-dxf-visualizer/static/js/787.977092f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481db822.css",
+    "static/js/main.1f0b0ffc.js"
+  ]
+}
